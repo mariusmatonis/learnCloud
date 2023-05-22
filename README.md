@@ -12,3 +12,4 @@
 ### Cloud Practicioner - https://aws.amazon.com/certification/certified-cloud-practitioner/?ch=sec&sec=rmg&d=1
 ### AWS Skills Center -https://www.aws.training/SessionSearch?pageNumber=1&courseId=87480&languageId=1&deliveryMethod=3
 ### Aws Developer Relations - https://www.linkedin.com/in/semaan/
+### Study Guide - https://www.linkedin.com/feed/update/urn:li:activity:7013565663550078976/
